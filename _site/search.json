@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fan Peng",
+    "section": "",
+    "text": "Hello! I’m Fan Peng, a passionate software developer with expertise in Python, Machine Learning, and Web Development. I thrive on building cutting-edge solutions that combine innovation with real-world impact.\n\n\n\nI am currently a 3rd-year Math + Stats student at the University of Toronto, specializing in Machine Learning, Web Development, and Mobile Development. My academic journey has been marked by a dedication to AI and automation, and I have excelled in cross-disciplinary courses.\nI have a proven track record of working on projects that span across industries such as healthcare and finance, where I’ve developed innovative, user-centric solutions. My experiences range from optimizing backend systems to mastering modern frontend technologies, demonstrating my ability to tackle complex technical challenges.\n\nEducation:\n\nUniversity of Toronto, St. George — Honing my skills through various projects and interdisciplinary learning.\n\nSkills:\n\nLanguages: Python, JavaScript, Java\nFrameworks: React, Jetpack Compose\nData & Cloud: SQL, AWS, REST APIs\nMachine Learning: TensorFlow, PyTorch\n\n\n\n\n\n\n\n\n\nSummary: Created a self-supervised image captioning model using Vision Transformers (ViTs) and pre-trained generative transformers. This project leverages modern machine learning techniques to generate descriptive captions for images with minimal supervision.\nTechnologies Used: Python, PyTorch, ViTs\n\n\n\n\n\nSummary: Led the migration of a stock market simulation platform from legacy software to a scalable, web-based solution using React and AWS. I optimized backend functionality with React Hooks and improved SQL query performance.\nTechnologies Used: ReactJS, SQL, AWS, JavaScript\n\n\n\n\n\n\nFeel free to connect with me for professional inquiries, collaborations, or to chat about tech!\n\nLinkedIn\nGitHub\nEmail\n\n\n\n\n\n\n\nI aim to use my skills in AI, automation, and software development to tackle challenging real-world problems. My goal is to contribute to innovations that make a tangible impact on industries such as healthcare, finance, and beyond."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Fan Peng",
+    "section": "",
+    "text": "I am currently a 3rd-year Math + Stats student at the University of Toronto, specializing in Machine Learning, Web Development, and Mobile Development. My academic journey has been marked by a dedication to AI and automation, and I have excelled in cross-disciplinary courses.\nI have a proven track record of working on projects that span across industries such as healthcare and finance, where I’ve developed innovative, user-centric solutions. My experiences range from optimizing backend systems to mastering modern frontend technologies, demonstrating my ability to tackle complex technical challenges.\n\nEducation:\n\nUniversity of Toronto, St. George — Honing my skills through various projects and interdisciplinary learning.\n\nSkills:\n\nLanguages: Python, JavaScript, Java\nFrameworks: React, Jetpack Compose\nData & Cloud: SQL, AWS, REST APIs\nMachine Learning: TensorFlow, PyTorch"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Fan Peng",
+    "section": "",
+    "text": "Summary: Created a self-supervised image captioning model using Vision Transformers (ViTs) and pre-trained generative transformers. This project leverages modern machine learning techniques to generate descriptive captions for images with minimal supervision.\nTechnologies Used: Python, PyTorch, ViTs\n\n\n\n\n\nSummary: Led the migration of a stock market simulation platform from legacy software to a scalable, web-based solution using React and AWS. I optimized backend functionality with React Hooks and improved SQL query performance.\nTechnologies Used: ReactJS, SQL, AWS, JavaScript"
+  },
+  {
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "Fan Peng",
+    "section": "",
+    "text": "Feel free to connect with me for professional inquiries, collaborations, or to chat about tech!\n\nLinkedIn\nGitHub\nEmail"
+  },
+  {
+    "objectID": "index.html#additional-information",
+    "href": "index.html#additional-information",
+    "title": "Fan Peng",
+    "section": "",
+    "text": "I aim to use my skills in AI, automation, and software development to tackle challenging real-world problems. My goal is to contribute to innovations that make a tangible impact on industries such as healthcare, finance, and beyond."
+  },
+  {
+    "objectID": "index.html#about-me-1",
+    "href": "index.html#about-me-1",
+    "title": "Fan Peng",
+    "section": "About Me",
+    "text": "About Me\nI am currently a 3rd-year Math + Stats student at the University of Toronto, specializing in Machine Learning, Web Development, and Mobile Development. My academic journey has been marked by a dedication to AI and automation, and I have excelled in cross-disciplinary courses.\nI have a proven track record of working on projects that span across industries such as healthcare and finance, where I’ve developed innovative, user-centric solutions. My experiences range from optimizing backend systems to mastering modern frontend technologies, demonstrating my ability to tackle complex technical challenges.\n\nEducation:\n\nUniversity of Toronto, St. George — Honing my skills through various projects and interdisciplinary learning.\n\nSkills:\n\nLanguages: Python, JavaScript, Java\nFrameworks: React, Jetpack Compose\nData & Cloud: SQL, AWS, REST APIs\nMachine Learning: TensorFlow, PyTorch"
+  },
+  {
+    "objectID": "index.html#featured-projects-1",
+    "href": "index.html#featured-projects-1",
+    "title": "Fan Peng",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\nImage Captioning with Vision Transformers\n\nSummary: Created a self-supervised image captioning model using Vision Transformers (ViTs) and pre-trained generative transformers. This project leverages modern machine learning techniques to generate descriptive captions for images with minimal supervision.\nTechnologies Used: Python, PyTorch, ViTs\n\n\n\nStock Market Simulation Platform Migration\n\nSummary: Led the migration of a stock market simulation platform from legacy software to a scalable, web-based solution using React and AWS. I optimized backend functionality with React Hooks and improved SQL query performance.\nTechnologies Used: ReactJS, SQL, AWS, JavaScript"
+  },
+  {
+    "objectID": "index.html#contact-me-1",
+    "href": "index.html#contact-me-1",
+    "title": "Fan Peng",
+    "section": "Contact Me",
+    "text": "Contact Me\nFeel free to connect with me for professional inquiries, collaborations, or to chat about tech!\n\nLinkedIn\nGitHub\nEmail"
+  },
+  {
+    "objectID": "index.html#additional-information-1",
+    "href": "index.html#additional-information-1",
+    "title": "Fan Peng",
+    "section": "Additional Information",
+    "text": "Additional Information\n\nProfessional Goals\nI aim to use my skills in AI, automation, and software development to tackle challenging real-world problems. My goal is to contribute to innovations that make a tangible impact on industries such as healthcare, finance, and beyond.\n\n\n1 + 1\n\n[1] 2"
+  }
+]

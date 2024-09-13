@@ -1,0 +1,116 @@
+---
+title: "Fan Peng"
+author: "Fan Peng"
+format: html
+toc: true
+toc-location: left
+---
+
+# Welcome to My Website!
+
+Hello! I'm **Fan Peng**, a passionate software developer with expertise in **Python**, **Machine Learning**, and **Web Development**. I thrive on building cutting-edge solutions that combine innovation with real-world impact.
+
+---
+
+## About Me
+
+I am currently a **3rd-year Math + Stats student** at the **University of Toronto**, specializing in **Machine Learning**, **Web Development**, and **Mobile Development**. My academic journey has been marked by a dedication to AI and automation, and I have excelled in cross-disciplinary courses.
+
+I have a proven track record of working on projects that span across industries such as healthcare and finance, where I've developed innovative, user-centric solutions. My experiences range from optimizing backend systems to mastering modern frontend technologies, demonstrating my ability to tackle complex technical challenges.
+
+- **Education**:
+  - **University of Toronto, St. George** — Honing my skills through various projects and interdisciplinary learning.
+  
+- **Skills**:
+  - **Languages**: Python, JavaScript, Java
+  - **Frameworks**: React, Jetpack Compose
+  - **Data & Cloud**: SQL, AWS, REST APIs
+  - **Machine Learning**: TensorFlow, PyTorch
+
+---
+
+## Featured Projects
+
+### Image Captioning with Vision Transformers
+- **Summary**: Created a self-supervised image captioning model using **Vision Transformers (ViTs)** and **pre-trained generative transformers**. This project leverages modern machine learning techniques to generate descriptive captions for images with minimal supervision.
+- **Technologies Used**: Python, PyTorch, ViTs
+
+### Stock Market Simulation Platform Migration
+- **Summary**: Led the migration of a stock market simulation platform from legacy software to a scalable, web-based solution using **React** and **AWS**. I optimized backend functionality with React Hooks and improved SQL query performance.
+- **Technologies Used**: ReactJS, SQL, AWS, JavaScript
+
+---
+
+## Contact Me
+
+Feel free to connect with me for professional inquiries, collaborations, or to chat about tech!
+
+- [LinkedIn](https://www.linkedin.com/in/aviral-bhardwaj04/)
+- [GitHub](https://github.com/Aviral-03)
+- [Email](mailto:aviral.bhardwaj@mail.utoronto.ca)
+
+---
+
+## Additional Information
+
+### Professional Goals
+I aim to use my skills in AI, automation, and software development to tackle challenging real-world problems. My goal is to contribute to innovations that make a tangible impact on industries such as healthcare, finance, and beyond.
+---
+
+# Welcome to My Website!
+
+Hello! I'm **Fan Peng**, a passionate software developer with expertise in **Python**, **Machine Learning**, and **Web Development**. I thrive on building cutting-edge solutions that combine innovation with real-world impact.
+
+------------------------------------------------------------------------
+
+## About Me
+
+I am currently a **3rd-year Math + Stats student** at the **University of Toronto**, specializing in **Machine Learning**, **Web Development**, and **Mobile Development**. My academic journey has been marked by a dedication to AI and automation, and I have excelled in cross-disciplinary courses.
+
+I have a proven track record of working on projects that span across industries such as healthcare and finance, where I've developed innovative, user-centric solutions. My experiences range from optimizing backend systems to mastering modern frontend technologies, demonstrating my ability to tackle complex technical challenges.
+
+-   **Education**:
+    -   **University of Toronto, St. George** — Honing my skills through various projects and interdisciplinary learning.
+-   **Skills**:
+    -   **Languages**: Python, JavaScript, Java
+    -   **Frameworks**: React, Jetpack Compose
+    -   **Data & Cloud**: SQL, AWS, REST APIs
+    -   **Machine Learning**: TensorFlow, PyTorch
+
+------------------------------------------------------------------------
+
+## Featured Projects
+
+### Image Captioning with Vision Transformers
+
+-   **Summary**: Created a self-supervised image captioning model using **Vision Transformers (ViTs)** and **pre-trained generative transformers**. This project leverages modern machine learning techniques to generate descriptive captions for images with minimal supervision.
+-   **Technologies Used**: Python, PyTorch, ViTs
+
+### Stock Market Simulation Platform Migration
+
+-   **Summary**: Led the migration of a stock market simulation platform from legacy software to a scalable, web-based solution using **React** and **AWS**. I optimized backend functionality with React Hooks and improved SQL query performance.
+-   **Technologies Used**: ReactJS, SQL, AWS, JavaScript
+
+------------------------------------------------------------------------
+
+## Contact Me
+
+Feel free to connect with me for professional inquiries, collaborations, or to chat about tech!
+
+-   [LinkedIn](https://www.linkedin.com/in/aviral-bhardwaj04/)
+-   [GitHub](https://github.com/Aviral-03)
+-   [Email](mailto:aviral.bhardwaj@mail.utoronto.ca)
+
+------------------------------------------------------------------------
+
+## Additional Information
+
+### Professional Goals
+
+I aim to use my skills in AI, automation, and software development to tackle challenging real-world problems. My goal is to contribute to innovations that make a tangible impact on industries such as healthcare, finance, and beyond.
+
+------------------------------------------------------------------------
+
+```{r}
+1 + 1
+```
